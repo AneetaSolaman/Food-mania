@@ -1,0 +1,34 @@
+/* .container{
+    height: 70vh;
+    width: 100%;
+    background-image: url(../../assets/two-red-cocktails-on-a-tray.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-top: 13px;
+}    /* /* margin-left: 0px; */
+    /* margin-top: 40px;  */ 
+
+h1,h2{
+    
+    line-height: 1.1;
+}
+h1{
+    text-align:left;
+    margin-top: -1115px;
+    margin-left: 0px;
+    color: #a5782a;
+    font-family: NONE;
+    font-weight: 500;
+}
+.container{
+    height: 100px;
+    width: 100px;
+}
+.paragraph{
+    
+width: 250px;
+margin-left: 255px;
+line-height: 30px;
+text-align: -webkit-center;
+padding-top: 400px;
+}

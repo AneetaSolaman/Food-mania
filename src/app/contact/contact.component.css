@@ -1,0 +1,70 @@
+#name{
+    width: 340px;
+    height: 41px;
+    text-align: center;
+    background-color: #f0f0f0;
+    border: transparent;
+}
+#email{
+    width: 340px;
+    height: 41px;
+    text-align: center;
+    background-color: #f0f0f0;
+    border: transparent;
+
+}
+#comment{
+    width: 340px;
+    height: 41px;
+    text-align: center;
+    background-color: #f0f0f0;
+
+}
+#button{
+    width: 340px;
+    height: 41px;
+    margin-left: 430px;
+    margin-top: 318px;
+
+
+}
+#new{
+    text-align: center;
+    margin-left: -7px;
+    color: #f0f0f0;
+    /* background-image: linear-gradient(to bottom,#f0f0f0 0,#161717 100%); */
+
+}
+.name{
+    text-align: center;
+    margin-left: 57px;
+}
+.email{
+    text-align: center;
+    margin-left: 57px;
+
+}
+.comments{
+    text-align: center;
+    margin-left: 57px;
+
+}
+/* .body{
+    background-image: url(../../assets/a-linen-napkin-topped-with-a-gold-lettered-menu.jpg);
+    background-size: cover;
+    background-position: center center ;
+    height: 100vh;
+    width: 210vh;
+    margin-top: -20px;
+
+} */
+.body{
+    background-image: url(../../assets/a-linen-napkin-topped-with-a-gold-lettered-menu.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center ;
+    height: 100vh;
+    width: 210vh;
+    margin-top: -20px;
+
+}
